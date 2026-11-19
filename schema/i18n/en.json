@@ -1,0 +1,4 @@
+{
+  "plugin.bunny-dns.name": "Bunny",
+  "plugin.bunny-dns.description": "ACME DNS-01 via Bunny."
+}
